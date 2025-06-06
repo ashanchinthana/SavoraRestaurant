@@ -1,5 +1,6 @@
-﻿# TukTukTable
 # Tuk Tuk Table - Restaurant Website
+![readme1.png](assets/images/readme1.png)
+
 
 A modern, responsive restaurant website for Tuk Tuk Table, featuring authentic Sri Lankan cuisine from the heart of Badulla. This website showcases delicious food offerings, online reservations, and the rich heritage of Sri Lankan flavors.
 

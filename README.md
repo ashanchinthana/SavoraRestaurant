@@ -2,7 +2,7 @@
 # Savora - Restaurant Website
 ## 📸 App Screenshot
 
-![App Screenshot](assets/images/logo1.png)
+![App Screenshot](assets/images/preview1.png)
 
 
 

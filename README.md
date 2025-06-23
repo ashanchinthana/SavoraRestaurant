@@ -1,4 +1,4 @@
-﻿# TukTukTale
+
 # Savora - Restaurant Website
 
 
@@ -91,7 +91,7 @@ A modern, responsive restaurant website for Savora, featuring authentic Sri Lank
 ## 📁 Project Structure
 
 ```
-tuk-tuk-table/
+Savora/
 ├── index.html
 ├── assets/
 │   ├── css/
@@ -137,7 +137,7 @@ tuk-tuk-table/
 - **Name**: Savora
 - **Location**: Badulla Road, Bandarawela, Sri Lanka
 - **Phone**: +94 76 5234946
-- **Email**: booking@TukTukTable.com
+- **Email**: booking@Savora.com
 - **Hours**: 
   - Daily: 8:00 AM - 10:00 PM
   - Lunch: 11:00 AM - 2:30 PM
@@ -194,7 +194,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Support
 
 For support or questions about this website:
-- Email: booking@TukTukTable.com
+- Email: booking@savora.com
 - Phone: +94 76 5234946
 
 ## 🙏 Acknowledgments

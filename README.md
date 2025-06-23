@@ -1,6 +1,6 @@
 ﻿# TukTukTale
 # Savora - Restaurant Website
-## 📸 App Screenshot
+
 
 ![App Screenshot](assets/images/preview1.png)
 
